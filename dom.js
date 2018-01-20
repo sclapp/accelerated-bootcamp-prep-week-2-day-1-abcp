@@ -39,6 +39,7 @@ var myDocument = [
         value: "I'm a paragraph"
       }
     ]
-  }
-  console.log(myDocument.children[0])
 ]
+
+}
+console.log(myDocument.children[0]);
