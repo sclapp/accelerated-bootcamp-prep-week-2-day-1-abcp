@@ -39,6 +39,5 @@ var myDocument = [
         value: "I'm a paragraph"
       }
     ]
-]
-}
+  }
 ]
