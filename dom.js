@@ -42,4 +42,3 @@ var myDocument = [
 ]
 
 }
-console.log(myDocument.children[0]);
