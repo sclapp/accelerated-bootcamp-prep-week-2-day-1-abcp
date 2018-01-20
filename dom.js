@@ -1,4 +1,4 @@
-var document = [
+var myDocument = [
   {
     tagName: "div",
     children: [
@@ -41,3 +41,4 @@ var document = [
     ]
   }
 ]
+console.log(myDocument.children[0])
