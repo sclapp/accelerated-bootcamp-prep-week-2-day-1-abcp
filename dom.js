@@ -40,5 +40,5 @@ var myDocument = [
       }
     ]
   }
+  console.log(myDocument.children[0])
 ]
-console.log(myDocument.children[0])
